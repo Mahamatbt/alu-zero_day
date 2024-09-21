@@ -1,3 +1,2 @@
-fdsafdsafdsafadsfdsf
-dsfdsf
-fdsaffdssss
+this is a new readme project
+pleade be patient
